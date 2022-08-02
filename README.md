@@ -18,4 +18,4 @@ Here is a screenshot and link to the site:
 
 ![alt screenshot of website](./images/Screenshot%202022-08-01%20142219.png)
 
-[https://andrewhong23.github.io/password-generator/](https://andrewhong23.github.io/password-generator/)
+[https://andrewhong23.github.io/coding-quiz/](https://andrewhong23.github.io/coding-quiz/)
